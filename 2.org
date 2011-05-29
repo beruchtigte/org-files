@@ -1,0 +1,9 @@
+* Tasks
+** DONE fjklsdjfjsdklfj
+** 1 fsdjflksdjlf
+** 2 fklsdajfjsdjfjsd
+** 3 sdflsjdfk
+   SCHEDULED: <2011-05-29 日>
+
+
+[[/home/cece/.emacs][emacstdotfile]]
